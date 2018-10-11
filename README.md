@@ -4,7 +4,9 @@ This project is a port of the Meteor package `aldeed:collection2-core` to make i
 ## Supporting the Project ##
 If you appreciate the open source work I do, you can help keep me going with a small donation for my time and effort.
 
-Litecoin: LXLBD9sC5dV79eQkwj7tFusUHvJA5nhuD3 / [Patreon](https://www.patreon.com/user?u=4866588) / [Paypal](https://www.paypal.me/copleykj)
+![Litecoin](http://gdurl.com/xnOe)
+
+[Patreon](https://www.patreon.com/user?u=4866588) / [Paypal](https://www.paypal.me/copleykj)
 
 ## Installation ##
 
