@@ -10,7 +10,13 @@
   "keywords": [
     "meteor",
     "collection2",
-    "react-native"
+    "react-native",
+    "simple-schema",
+    "simpl-schema",
+    "mongodb",
+    "isomorphic",
+    "schema",
+    "validation"
   ],
   "author": "Kelly Copley <copleykj@gmail.com>",
   "license": "MIT",
@@ -19,13 +25,13 @@
   },
   "homepage": "https://github.com/copleykj/react-native-meteor-collection2#readme",
   "dependencies": {
-    "@socialize/react-native-meteor": "^1.3.2",
-    "simpl-schema": "^1.5.3",
-    "clone": "^1.0.4",
-    "ejson": "^2.1.2",
+    "@socialize/react-native-meteor": "^2.0.2",
+    "simpl-schema": "^1.9.0",
+    "clone": "^2.1.2",
+    "ejson": "^2.2.0",
     "lodash.isempty": "^4.4.0",
     "lodash.isequal": "^4.5.0",
     "lodash.isobject": "^3.0.2",
-    "wolfy87-eventemitter": "^5.2.5"
+    "wolfy87-eventemitter": "^5.2.9"
   }
 }
