@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/copleykj/react-native-meteor-collection2.git"
   },
+  "scripts": {
+    "publish-release": "npm publish --access public"
+  },
   "keywords": [
     "meteor",
     "collection2",
